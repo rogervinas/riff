@@ -1,6 +1,10 @@
-# Riff
+# Riff Sample
 
 [Project Riff](https://projectriff.io) Sample
+
+## References
+
+* [Spring Cloud Function](https://cloud.spring.io/spring-cloud-function)
 
 ## YouTube inspiration
 
